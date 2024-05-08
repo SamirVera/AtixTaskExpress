@@ -14,14 +14,15 @@ Para instalar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/SamirVera/AtixTasksReact.git
-   cd AtixTasksReact
+   git clone https://github.com/SamirVera/AtixTaskExpress.git
+   cd AtiTaskExpress
 2. Instala las dependencias:
    ```bash
    npm install
 3. Configuración:
    ```bash
     PORT=3005
+    DB_URL=mongodb://tu-url-de-mongo.
 4. Ejecutar el Proyecto:
    ```bash
     Para ejecutar el proyecto en modo de desarrollo, puedes usar el siguiente comando:
