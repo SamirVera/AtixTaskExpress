@@ -1,12 +1,11 @@
 # Título del Proyecto
 
-Descripción breve del proyecto.
-
+Proyecto reto tecnico Atix
 ## Pre-requisitos
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
-- Node.js instalado (versión recomendada: 14.x)
-- NPM o Yarn instalado
+- Node.js instalado version 20.11.0
+- NPM 10.2.4
 - Sistema operativo compatible: Windows, Mac OS X, o Linux
 
 ## Instalación
