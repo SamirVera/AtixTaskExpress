@@ -17,3 +17,18 @@ Para instalar el proyecto, sigue estos pasos:
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
+2. Instala las dependencias:
+   ```bash
+   npm install
+3. Configuración:
+   ```bash
+    PORT=3005
+    DB_URL=mongodb://tu-url-de-mongo.
+4. Ejecutar el Proyecto:
+   ```bash
+    Para ejecutar el proyecto en modo de desarrollo, puedes usar el siguiente comando:
+    npm run start:dev
+
+
+
+
